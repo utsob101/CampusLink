@@ -22,7 +22,7 @@ There are also helper scripts at the repository root and `Backend/` for Windows 
 
 ```bash
 git clone https://github.com/Avengers-Limited/CampusLinkv2.git
-cd CampusLink_v2
+cd CampusLink
 ```
 
 2. Open two terminals (one for backend, one for frontend).
@@ -64,10 +64,10 @@ npm run android  # open on Android device/emulator
 npm run ios      # open on iOS (macOS only)
 
 # Tunnel mode (useful for device testing across networks)
-npm run start:tunnel
+npm run start: tunnel
 ```
 
-Scripts available (from `FrontEnd/package.json`): `start`, `start:tunnel`, `android`, `ios`, and build scripts for EAS.
+Scripts available (from `FrontEnd/package.json`): `start`, `start: tunnel`, `android`, `ios`, and build scripts for EAS.
 
 Configuration: `FrontEnd/server-config.json` contains the `apiBase` (example: `http://192.168.68.210:4000`). Update this to point at your running backend or provide environment-based overrides in the app code.
 
