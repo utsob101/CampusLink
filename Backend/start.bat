@@ -1,0 +1,3 @@
+@echo off
+echo Starting CampusLink Backend...
+npm run dev
