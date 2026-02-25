@@ -1,4 +1,4 @@
-# 🎓 CampusLink (CampusLink_v2)
+# 🎓 CampusLink
 
 CampusLink is a university-focused networking platform for students to find project teammates, create/join teams, and collaborate. This repository is a monorepo containing a Backend (Express/MongoDB) and a FrontEnd (React Native + Expo) application.
 
