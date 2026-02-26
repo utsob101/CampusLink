@@ -297,6 +297,6 @@ If you'd like, I can also:
 - Add a CONTRIBUTING.md with PR checklist,
 - Or split top-level README into `README.md` (overview) + `Backend/README.md` + `FrontEnd/README.md` for more detail.
 
-If you want any of the above, tell me which and I'll implement it.
-
+## 📊 Project Presentation
+[View Presentation Slide](https://www.canva.com/design/DAG4rXjfElY/viuJCFwP17m_JGzEw10PSg/view?utm_content=DAG4rXjfElY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5271657f66#3)
 Made with ❤️ by the CampusLink Team
